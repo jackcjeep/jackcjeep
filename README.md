@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 
 ## 📚 Currently Learning
 - CCNA (Cisco Certified Network Associate) Certification
-- CompTIA Network+
+- CompTIA Network+ Certification
 - Microsoft Azure Cloud Fundementals
 
 ## 🎮 Projects
