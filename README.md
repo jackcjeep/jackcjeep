@@ -40,7 +40,3 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's build something amazing together!
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jack-c-jeep&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
