@@ -1,27 +1,49 @@
-# Hi there, I'm Jack 👋
+# Hi there, I'm [Your Name] 👋
 
 Welcome to my GitHub profile! I'm a computer science major with a focus on networking, IT, and software development. I'm passionate about technology and love working on projects that challenge my skills and creativity.
 
 ## 🔧 Skills
-- **Programming Languages**: Rust, Python, JavaScript, C++
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Networking & IT**: TCP/IP, Network Security, Wireless Networks, Cisco Networking
-- **Cybersecurity**: Threat Modeling, WPA2/WPA3 Cracking, Ethical Hacking
-- **Data Science**: Data Analysis, Machine Learning, GNU Radio
-- **Tools & Technologies**: Git, Docker, GNU Radio, Wireshark
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-009639?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-6A1B9A?style=for-the-badge&logo=security&logoColor=white)
+![Wireless Networks](https://img.shields.io/badge/Wireless_Networks-007ACC?style=for-the-badge&logo=wifi&logoColor=white)
+![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-FF6F00?style=for-the-badge&logo=shield&logoColor=white)
+![WPA2/WPA3 Cracking](https://img.shields.io/badge/WPA2/WPA3_Cracking-D32F2F?style=for-the-badge&logo=wifi&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge&logo=python&logoColor=white)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## 💼 Experience
 - **Best Buy**: Sales Advisor and Sales Supervisor with nearly four years of experience
 
 ## 🌐 Find me online
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 ## 📚 Currently Learning
 - CCNA (Cisco Certified Network Associate) certification
 - Advanced topics in network security and game development
 
 ## 🎮 Projects
+- **Capstone Project**: Implementing a website similar to framed.com where users guess a movie based on given frames.
+- **Custom Baseball League**: World-building a custom baseball league with unique team histories and cultural references.
 - **Wireless Network Security**: WPA2 Cracking and Countermeasures project, including performance metrics and WPA3 coverage.
 
 ## 🚀 Future Goals
@@ -32,7 +54,4 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-
