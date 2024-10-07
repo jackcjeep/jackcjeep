@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 - Advanced topics in network security and game development
 
 ## 🎮 Projects
-- **Capstone Project**: Implementing a website similar to framed.com where users guess a movie based on given frames.
-- **Custom Baseball League**: World-building a custom baseball league with unique team histories and cultural references.
 - **Wireless Network Security**: WPA2 Cracking and Countermeasures project, including performance metrics and WPA3 coverage.
 
 ## 🚀 Future Goals
