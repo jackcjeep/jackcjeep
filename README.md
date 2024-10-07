@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-Welcome to my GitHub profile! I'm a computer science major with a focus on networking, IT, and software development. I'm passionate about technology and love working on projects that challenge my skills and creativity.
+Welcome to my GitHub profile! I'm a computer science major with a focus on networking, IT, and security. I'm passionate about technology and love working on projects that challenge my skills and creativity.
 
 ## 🔧 Skills
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -35,19 +35,17 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 
 ## 🌐 Find me online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 ## 📚 Currently Learning
-- CCNA (Cisco Certified Network Associate) certification
-- Advanced topics in network security and game development
+- CCNA (Cisco Certified Network Associate) Certification
+- CompTIA Network+
+- Microsoft Azure Cloud Fundementals
 
 ## 🎮 Projects
-- **Capstone Project**: Implementing a website similar to framed.com where users guess a movie based on given frames.
-- **Custom Baseball League**: World-building a custom baseball league with unique team histories and cultural references.
 - **Wireless Network Security**: WPA2 Cracking and Countermeasures project, including performance metrics and WPA3 coverage.
 
 ## 🚀 Future Goals
-- Combine my interests in network engineering and game development for a multi-leveled project to showcase on my resume.
+- Pursue a career in network engineering and continue to learn all things networking and security!
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's build something amazing together!
 
