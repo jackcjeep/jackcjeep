@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-009639?style=for-the-badge&logo=internetexplorer&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-6A1B9A?style=for-the-badge&logo=security&logoColor=white)
 ![Wireless Networks](https://img.shields.io/badge/Wireless_Networks-007ACC?style=for-the-badge&logo=wifi&logoColor=white)
 ![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
