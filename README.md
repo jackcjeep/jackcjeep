@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 - **Best Buy**: Sales Advisor and Sales Supervisor with nearly four years of experience
 
 ## 🌐 Find me online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jack-jeep-853690213]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-jeep-853690213)
 
 ## 📚 Currently Learning
 - CCNA (Cisco Certified Network Associate) Certification
