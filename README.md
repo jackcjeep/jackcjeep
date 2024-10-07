@@ -19,16 +19,7 @@ Welcome to my GitHub profile! I'm a computer science major with a focus on netwo
 ![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-FF6F00?style=for-the-badge&logo=shield&logoColor=white)
-![WPA2/WPA3 Cracking](https://img.shields.io/badge/WPA2/WPA3_Cracking-D32F2F?style=for-the-badge&logo=wifi&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![GNU Radio](https://img.shields.io/badge/GNU_Radio-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ## 💼 Experience
 - **Best Buy**: Sales Advisor and Sales Supervisor with nearly four years of experience
