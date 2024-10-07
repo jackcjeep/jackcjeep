@@ -1,4 +1,4 @@
-# Hi there, I'm Jack 👋
+# Hi there, my name is Jack 👋
 
 Welcome to my GitHub profile! I'm a computer science major with a focus on networking, IT, and security. I'm passionate about technology and love working on projects that challenge my skills and creativity.
 
